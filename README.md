@@ -1,3 +1,6 @@
+# Hi, Prism's Autoclicker has been discontinued in favor of Neoprisma. Neoprisma is more stable/reliable, receives updates on a monthly basis, and also much easier to install. See [https://github.com/PrismaticDepths/neoprisma](https://github.com/PrismaticDepths/neoprisma)
+
+
 If these instructions are unclear or do not work, please let me know.
 
 ## Installation (Mac)
